@@ -1,0 +1,21 @@
+.banner-img{
+    object-fit: cover; /* para preserva a proporção da imagem */
+    object-position: 0 80%; /*Movimentar a imagem dentro do container para centralizar*/
+    height: 400px; /*altura da imagem*/
+}
+.fonte-titulo{
+    font-family: 'Pacifico', cursive; /*fonte pega no goolge fontes para utilizar no projeto!*/
+   /* height: 120px; /*Altura do texto-titulo*/  
+   
+}
+.cor-especial{
+    color: darkred; /* cor do subtitulo da pagina*/
+    
+}
+.cor-titulo{
+    background-color: darkred !important; /*cor do botao do cards*/
+    color: white; /*cor do texto do card dentro do botao*/
+}
+.borda-cards{
+    border-color: darkred;
+}
