@@ -8,8 +8,14 @@
    /* height: 120px; /*Altura do texto-titulo*/  
    
 }
+.imgagem{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 215px;
+    width: 286px;
+}
 .cor-especial{
-    color: darkred; /* cor do subtitulo da pagina*/
+    color: darkred !important; /* cor do subtitulo da pagina*/
     
 }
 .cor-titulo{
@@ -19,3 +25,15 @@
 .borda-cards{
     border-color: darkred;
 }
+.lagura-card{
+    max-width: 18rem;
+}
+.cards-padrao{
+    object-fit: cover;
+    object-position: 0 80%
+}
+.rodape{
+  background: #83b8eb;
+}
+
+
